@@ -14,4 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehaSS&show_icons=true&theme=radical&count_private=true)
+I'm a passionate Web Developer. 
+
+### 🛠️ Tech Stack:
+- **Backend:** Python (FastAPI, Django), AWS, Mysql
+- **Frontend:** Next.js
+- **Learning:** Rust, JavaScript, TypeScript etc..
+
+### 📫 How to reach me:
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jaehaSS.github.io/)](https://velog.io/@jaeha1099/posts)		
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tkdgkwogk@gmail.com)](mailto:tkdgkwogk@gmail.com)
