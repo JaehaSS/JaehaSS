@@ -22,5 +22,5 @@ I'm a passionate Web Developer.
 - **Learning:** Rust, JavaScript, TypeScript etc..
 
 ### 📫 How to reach me:
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=https://velog.io/@jaeha1099/posts/)](https://velog.io/@jaeha1099/posts)		
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://velog.io/@jaeha1099/posts/)](https://jaehashin.tistory.com/)		
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tkdgkwogk@gmail.com)](mailto:tkdgkwogk@gmail.com)
