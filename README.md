@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm a passionate Web Developer. 
 
 ### 🛠️ Tech Stack:
-- **Backend:** Python (FastAPI, Django), AWS, Mysql
+- **Backend:** Python (FastAPI, Django),Java(Spring), AWS, Mysql, 
 - **Frontend:** Next.js
 - **Learning:** Rust, JavaScript, TypeScript etc..
 
